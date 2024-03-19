@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\bin\Debug\film.Arsıv.exe.config
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\bin\Debug\film.Arsıv.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\bin\Debug\film.Arsıv.pdb
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\film.Arsıv\film.Arsıv\obj\Debug\film.Arsıv.pdb
